@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileLayout</string>
+    <string name="header_cover_image">Header Cover Image</string>
+    <string name="edit_button">Edit Button</string>
+    <string name="education">Education:</string>
+    <string name="work">Work:</string>
+    <string name="dob">DOB:</string>
+    <string name="marriage">Marriage:</string>
+    <string name="gender">Gender:</string>
+    <string name="blood_group">Blood Group:</string>
+    <string name="email">Email:</string>
+    <string name="mobile">Mobile:</string>
+</resources>
